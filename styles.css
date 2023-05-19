@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(46, 45, 45);
+}
+
+.Division{
+    border: 5px solid white;
+}
+
+a img{
+    width: 30px;
+    height: 30px;
+}
+
+#navbarDropdown{
+    color: white;
+    font-size: 25px;
+}
+
+#navbarDropdown img{
+    width: 40px;
+    height: 40px;
+}
+
+#Encabezado{
+    color: white;
+    text-align: center;
+    font-family: 'Unbounded', cursive;
+}
+
+#carruselPequeño img{
+    height: 300px;
+}
+
+.TheWeeknd{
+    font-family: 'Staatliches', cursive;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Kendrick{
+    font-family: 'Indie Flower', cursive;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Kanye{
+    font-family: 'Lilita One', cursive;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.TheWeeknd-titulo{
+    font-family: 'Staatliches', cursive;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.Kendrick-titulo{
+    font-family: 'Indie Flower', cursive;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.Kanye-titulo{
+    font-family: 'Lilita One', cursive;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.titulo{
+    color: white;
+    font-family: 'Unbounded', cursive;
+    font-size: 50px;
+}
+.subtitulo{
+    color: white;
+    font-family: 'Unbounded', cursive;
+    font-size: 30px;
+}
+
+.texto{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-align: justify;
+    font-size: 18px;
+}
+
+#pie-de-pagina{
+    background-color: black;
+}
